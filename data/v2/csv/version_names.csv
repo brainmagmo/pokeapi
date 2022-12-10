@@ -289,7 +289,7 @@ version_id,local_language_id,name
 33,5,Épée
 33,6,Schwert
 33,7,Espada
-33,8,çSpada
+33,8,Spada
 33,9,Sword
 33,12,剑
 34,1,シールド
@@ -298,7 +298,7 @@ version_id,local_language_id,name
 34,5,Bouclier
 34,6,Schild
 34,7,Escudo
-34,8,Spada
+34,8,Scudo
 34,9,Shield
 34,12,盾
 35,1,鎧の孤島
@@ -346,3 +346,21 @@ version_id,local_language_id,name
 39,8,Leggende: Arceus
 39,9,Legends: Arceus
 39,12,传说 阿尔宙斯
+40,1,スカーレット
+40,3,스칼렛
+40,4,朱
+40,5,Écarlate
+40,6,Karmesin
+40,7,Escarlata
+40,8,Scarlatto
+40,9,Scarlet
+40,12,朱
+41,1,バイオレット
+41,3,스칼렛
+41,4,紫
+41,5,Violet
+41,6,Purpur
+41,7,Púrpura
+41,8,Violetto
+41,9,Violet
+41,12,紫
